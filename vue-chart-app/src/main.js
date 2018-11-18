@@ -4,7 +4,7 @@ import VueResource from 'vue-resource'
 import HighchartsVue from 'highcharts-vue'
 
 Vue.use(VueResource);
-Vue.use(HighchartsVue)
+Vue.use(HighchartsVue);
 
 new Vue({
   el: '#app',
